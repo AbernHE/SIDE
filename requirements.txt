@@ -1,0 +1,33 @@
+Bottleneck @ file:///home/conda/feedstock_root/build_artifacts/bottleneck_1656803757560/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1655412516417/work
+filelock==3.9.0
+huggingface-hub==0.12.1
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1633637554808/work
+mkl-fft==1.3.1
+mkl-random==1.2.2
+mkl-service==2.4.0
+mock==4.0.3
+numexpr @ file:///opt/conda/conda-bld/numexpr_1656940300424/work
+numpy @ file:///opt/conda/conda-bld/numpy_and_numpy_base_1653915516269/work
+olefile @ file:///home/conda/feedstock_root/build_artifacts/olefile_1602866521163/work
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1637239678211/work
+pandas==1.3.5
+Pillow==5.4.1
+pkgconfig==1.5.5
+pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1652235407899/work
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1647961439546/work
+regex==2022.10.31
+scikit-learn @ file:///home/conda/feedstock_root/build_artifacts/scikit-learn_1640464152916/work
+scipy @ file:///home/conda/feedstock_root/build_artifacts/scipy_1637806658031/work
+sentencepiece==0.1.97
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+subword-nmt==0.3.8
+threadpoolctl @ file:///home/conda/feedstock_root/build_artifacts/threadpoolctl_1643647933166/work
+tokenizers==0.13.2
+torch==1.7.1
+torchaudio==0.7.0a0+a853dff
+torchvision==0.8.2
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1649051611147/work
+transformers==4.26.1
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1656706066251/work

@@ -12,10 +12,15 @@ Dependencies can be installed using the requirements.txt file.
 ## Required Packages
 
 numpy
+
 pandas
+
 tqdm
+
 scikit-learn
+
 torch
+
 subword-nmt
 
 ## Run
